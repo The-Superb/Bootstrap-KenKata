@@ -1,6 +1,6 @@
 <template>
     <!-- Flash sale start -->
-    <div class="mtHome pl-0 pr-0">
+    <div class="mtHome pl-0 pr-0" data-aos="zoom-in" data-aos-duration="2000">
         <div class="bgDarkblueSale">
             <div class="container">
                 <div class="row">

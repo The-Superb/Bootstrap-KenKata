@@ -1,6 +1,6 @@
 <template>
     <!-- Carousel start -->
-    <div class="carousel slide pl-0 pr-0" data-ride="carousel">
+    <div class="carousel slide pl-0 pr-0" data-ride="carousel" data-aos="fade-up" data-aos-duration="2000">
         <div class="productBg carousel-inner mb-first">
             <div class="mtHome carousel-item active">
                 <div class="container">

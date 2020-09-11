@@ -1,6 +1,6 @@
 <template>
     <!-- Sale start -->
-    <div class="bgGrey pl-0 pr-0 mtHome">
+    <div class="bgGrey pl-0 pr-0 mtHome" data-aos="fade-up" data-aos-duration="2000">
         <div class="container d-flex justify-content-between align-items-center">
             <div class="pl text-center px-5 themeSale white pt">
                 <h1><strong>30%</strong> <small class="font-weight-bold">OFF</small></h1>

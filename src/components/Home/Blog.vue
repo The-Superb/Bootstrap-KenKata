@@ -1,5 +1,5 @@
 <template>
-    <div class="container pl-0 pr-0 mtHome img-none">
+    <div class="container pl-0 pr-0 mtHome img-none" data-aos="fade-right" data-aos-duration="2000">
         <h1 class="row font-weight-bold d-flex justify-content-center caps">latest<span class="theme ml-2">blog</span></h1>
         <div class="d-flex justify-content-center mb-3">
             <img src="@/assets/wave.png">

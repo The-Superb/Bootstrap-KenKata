@@ -1,10 +1,10 @@
 <template>
     <footer class="pl-0 pr-0 relative">
-        <div class="container m-footer">
+        <div class="container m-footer" data-aos="fade-right" data-aos-duration="2000">
             <img class="img-fluid" src="@/assets/Brand.png" alt="">
         </div>
 
-        <div class="bg-footer">
+        <div class="bg-footer" data-aos="fade-up-right" data-aos-duration="2000">
             <div class="container pl-0 pr-0">
                 <div class="row">
                     <div class="pt-footer col col-md-6 col-xl-3 mb-5">

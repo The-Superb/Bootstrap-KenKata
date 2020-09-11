@@ -1,6 +1,6 @@
 <template>
     <!-- New arrivals start -->
-    <div class="container pl-0 pr-0 mtHome">
+    <div class="container pl-0 pr-0 mtHome" data-aos="zoom-in" data-aos-duration="2000">
         <h1 class="font-weight-bold d-flex justify-content-center">NEW <span class="theme ml-2">ARRIVALS</span></h1>
         <div class="d-flex justify-content-center mb-3">
             <img src="@/assets/wave.png" alt="">

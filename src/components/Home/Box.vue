@@ -1,6 +1,6 @@
 <template>
     <!-- Box info start -->
-    <div class="marginBox">
+    <div class="marginBox" data-aos="fade-right" data-aos-duration="2000">
         <div class="row mtHome">
             <div class="col col-sm-6 col-md-6 col-xl mb-3">
                 <div class="d-flex flex-row boxHome pt-3 my-hover">

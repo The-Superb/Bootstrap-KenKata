@@ -1,5 +1,5 @@
 <template>
-    <div class="pl-0 pr-0">
+    <div class="pl-0 pr-0" data-aos="fade-down" data-aos-duration="2000">
         <!-- Navbar 1 start -->
         <nav class="navbar navbar-expand-lg navbar-dark nav-theme img-none">
             <div class="container white">
@@ -115,7 +115,7 @@
 
                     <ul class="navbar-nav darkBlue nav-mm">
                         <li class="nav-item ml-3">
-                            <a class="nav-link" href="#">Home</a>
+                            <a class="nav-link" href="home">Home</a>
                         </li>
                         <li class="nav-item dropdown ml-3">
                             <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Shop <i class="theme fas fa-angle-down"></i></a>

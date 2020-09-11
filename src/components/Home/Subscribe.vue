@@ -1,5 +1,5 @@
 <template>
-    <div class="lightBg pl-0 pr-0 mtHome">
+    <div class="lightBg pl-0 pr-0 mtHome" data-aos="fade-left" data-aos-duration="2000">
         <div class="container d-flex justify-content-between align-items-center">
             <div class="col-md-5 pt-5 pb-5">
                 <h1 class="pr-2 font-weight-bold">SUBSCRIBE <span class="theme">NOW</span></h1>

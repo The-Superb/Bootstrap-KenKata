@@ -1,23 +1,23 @@
 <template>
   <div>
     <Navbar />
+    <Home />
     <router-view/>
     <Footer />
   </div>
 </template>
 
-  <!-- <router-link to="/">Home</router-link> |
-  <router-link to="/shop">Shop</router-link> -->
-
 <script>
 import Navbar from '@/components/Navbar.vue'
 import Footer from '@/components/Footer.vue'
+import Home from '@/views/Home'
 
 export default {
   name: 'App',
   components: {
     Navbar,
-    Footer
+    Footer,
+    Home
   }
 }
 </script>

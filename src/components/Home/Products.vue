@@ -1,7 +1,6 @@
 <template>
     <!-- Featured products start -->
-    <div class="mtHome">
-        <div class="">
+    <div class="mtHome" data-aos="zoom-in" data-aos-duration="2000">
             <div class="col-12">
                 <h1 class="font-weight-bold d-flex justify-content-center">FEATURED <span class="img-none theme ml-2">PRODUCTS</span></h1>
                 <h1 class="font-weight-bold d-flex justify-content-center theme img-none-lt">PRODUCTS</h1>
@@ -10,7 +9,6 @@
                 </div>
                 <p class="d-flex justify-content-center pl-m">Check out our monthly featured products from top brands</p>
             </div>
-        </div>
 
     <div class="container pt-3">
         <div class="owl-carousel owl-theme owl-loaded owl-drag">

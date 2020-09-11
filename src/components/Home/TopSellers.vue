@@ -1,12 +1,12 @@
 <template>
-<div class="container mtHome">
+<div class="container mtHome" data-aos="zoom-in" data-aos-duration="2000">
         <h1 class="row font-weight-bold d-flex justify-content-center caps">top<span class="theme ml-2">sellers</span></h1>
         <div class="d-flex justify-content-center mb-3">
             <img src="@/assets/wave.png" >
         </div>
         <p class="d-flex justify-content-center">Check out our weekly top sellers in all category</p>
 
-<div class="grid-layout-ts">
+<div class="grid-layout-ts" data-aos="flip-right" data-aos-duration="2000">
     <div class="grid-item span-5 grid-item-2">
         <div class="item">
             <img class="bgCGrey hover-me img-fluid" src="@/assets/topProd1.png" >
